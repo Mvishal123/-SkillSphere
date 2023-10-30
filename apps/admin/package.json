@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ui": "*",
-    "tailwindconfig": "*"
+    "react-typed": "^1.2.0",
+    "tailwindconfig": "*",
+    "ui": "*"
   },
   "devDependencies": {
     "eslint-config-custom": "*",
