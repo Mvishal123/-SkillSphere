@@ -1,5 +1,4 @@
 // shadcn-ui
-export * from "./src/ui/accordion";
 export * from "./src/ui/button";
 export * from "./src/ui/avatar";
 export * from "./src/ui/dropdown-menu";
